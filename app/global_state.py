@@ -1,0 +1,1 @@
+current_teacher = None
